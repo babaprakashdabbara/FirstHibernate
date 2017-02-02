@@ -10,6 +10,10 @@ import com.baba.tutorial.hibernate.service.UserService;
 import com.baba.tutorial.hibernate.service.UserServiceImpl;
 import com.baba.tutorial.hibernate.util.HibernateUtil;
 
+/**
+ * @author Babaprakash Dabbara
+ *
+ */
 public class FirstHibernate {
 
 	public static void main(String[] args) {
